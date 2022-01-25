@@ -1,0 +1,160 @@
+
+body {
+    background-color: #ECF2F8;
+}
+
+.container {
+    display: flex;
+    font-family: 'Outfit', sans-serif;
+}
+
+.AllPeopleContainer {
+    display: flex;
+    width: 1110px;
+    height: 572px;
+    margin: 5% auto;
+}
+
+.fourPeopleProfile {
+    border-radius: 8px;
+}
+
+.top2PeopleContainer {
+    display: flex;
+}
+
+.down2peopleContainer {
+    display: flex;
+    margin: 0 0 15px 0;
+}
+
+
+.danielClifford {
+    width: 540px;
+    height: 282px;
+    background-color: hsl(263, 55%, 52%);
+    font-family: 'Outfit', sans-serif;
+    margin: 0 20px 20px 0;
+    border-radius: 8px;
+}
+
+.danielClifford-content {
+    color: #CFCFCF;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+
+img {
+    border-radius: 50%;
+    border: 1px solid darkgray;
+}
+
+.jonathanWalters {
+    width: 255px;
+    height: 282px;
+    background-color: hsl(217, 19%, 35%);
+    margin: 0 20px 0 0;
+    border-radius: 8px;
+}
+
+.jonathanWalters-content {
+    font-size: 10px;
+    color: #FFFFFF;
+    line-height: 15px;
+}
+
+
+.container-body {
+    padding: 32px;
+}
+
+.jeanetteHarmon {
+    width: 255px;
+    height: 266px;
+    background-color: hsl(0, 0%, 100%);
+    color: #FFFFFF;
+    border-radius: 8px;
+    font-size: 13px;
+}
+
+.jeanetteHarmon-content {
+    color: #48556A;
+    line-height: 15px;
+}
+
+.patricAbrams {
+    width: 540px;
+    height: 266px;
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 8px;
+    margin: 0 0 0 20px;
+}
+
+.patricAbrams-content {
+    font-size: 12px;
+    color: #CFCFCF;
+    line-height: 15px;
+}
+
+.onePersonContainer {
+    width: 255px;
+    height: 572px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 8px;
+}
+
+.kiraWhittleArticle-content {
+    font-size: 13px;
+    color: #48556A;
+    line-height: 16px;
+}
+
+.name-title {
+    padding: 0 0 0 10px;
+}
+
+.pic-title {
+    display: flex;
+}
+
+p {
+    color: white;
+    font-size: 17px;
+
+}
+
+.jeanette-kira-title p {
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+}
+.container-second-body {
+    line-height: 20px;
+}
+
+.social-icons{
+    margin: 0 0 0 10px;
+}
+.fa-github {
+    /*background-color: transparent;*/
+}
+
+
+/*
+@media (min-width: 600px) {
+    .top2PeopleContainer {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .danielClifford {
+        width: 100%;
+    }
+    .jonathanWalters{
+        width:100%;
+    }
+}*/
+
+
+
+
